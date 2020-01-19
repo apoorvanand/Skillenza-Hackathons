@@ -1,37 +1,36 @@
 ---
 name: 'Hackathon Submission '
 about: 'Hackathon Project Submission '
-title: TEAM NAME - PROJECT NAME
-labels: Hacknight-3.0, Hacknight 4.0, Hacknight 1.0, Hacknight 2.0, Hacknight-5.0
+title: HackerOne - Microlending Platform
+labels: Hacknight-3.0, Hacknight 4.0, Hacknight 1.0, Hacknight 2.0, Hacknight-5.0 ,Hacknight-6.0
 assignees: suryaskillenza
 
 ---
 
 **Before you start, please follow this format for your issue title**:
-TEAM NAME - PROJECT NAME
+HackerOne - Microlending Platform
 
 ## ℹ️ Project information
-_Please complete all applicable._
 
-- **Project Name**:
-- **Short Project Description**: _One line crisp description of your project_
-- **Team Name**:
-- **Team Members**: _Mention their Names & tag their GitHub handles_
-- **Where to find you?**: _Mention the room you're sitting in so we can find you_
-- **Demo Link**: _(if any, this might contain a website/ mobile application link/ short video, etc.)_
-- **Repository Link(s)**: _Provide us the link to your code. All judges must be able to access it._
+- **Microlending Platform**:
+- **Short Project Description**: Digital lending for small businesses based on their creditworthiness.
+- **Team Name**:HackerOne
+- **Team Members**: Apoorv Anand @apoorvanand
+- **Where to find you?**: near Starbucks meeting room
+- **Demo Link**: http://hackathon1.southcentralus.cloudapp.azure.com:8080/login
+- **Repository Link(s)**: https://github.com/apoorvanand/Hacknight_6.0_Azure.git
 
 
 ## 🔥 Your Pitch
-_Kindly write a pitch for your project. Please do not use more than 500 words_
+A Microlending Platform for consumers seeking loans from financial institutions, with the ability to apply for a loan without visiting a physical branch.  Consumer should be able to self-register and set-up by providing user info, verify ID using national ID and upload KYC documents.  Also includes capability for the consumer of the loan to perform other basic functions such as accept/reject loan offer, contact support and view loan details like balance and re-payment schedule.  Also include capability for the financial institution to receive KYC info and view a business dashboard of account status.  The app will also obtain and store (on backend) consumer/user mobile phone data, with ability for financial institution to access the data. 
 
 
 ## 🔦 Any other specific thing you want to highlight?
-_(Optional)_
+Based on Open Source technology and highly compliant with Financial laws
 
 ## ✅ Checklist
 
 **Before you post the issue**:
-- [ ] You have followed the issue title format.
-- [ ] You have mentioned the correct labels.
-- [ ] You have provided all the information correctly.
+- [✅ ] You have followed the issue title format.
+- [✅ ] You have mentioned the correct labels.
+- [✅] You have provided all the information correctly.
